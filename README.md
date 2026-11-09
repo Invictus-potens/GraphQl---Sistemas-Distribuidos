@@ -10,3 +10,11 @@ Atividade de Sistemas Distribuidos, sexta etapa Engenharia de Software Unaerp 20
 - npm install
 - npm start
 - Abrir o a pagina no localhost e testar as querys.
+
+## Integrantes
+
+Bruno Henrique
+Felipe Ortiz Muniz de Melo
+Ettore Saburi Baldo
+Thales Kirchner Ozéias
+Marcos Kaminski Franca 
