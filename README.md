@@ -13,8 +13,8 @@ Atividade de Sistemas Distribuidos, sexta etapa Engenharia de Software Unaerp 20
 
 ## Integrantes
 
-Bruno Henrique
-Felipe Ortiz Muniz de Melo
-Ettore Saburi Baldo
-Thales Kirchner Ozéias
-Marcos Kaminski Franca 
+- Bruno Henrique
+- Felipe Ortiz Muniz de Melo
+- Ettore Saburi Baldo
+- Thales Kirchner Ozéias
+- Marcos Kaminski Franca 
